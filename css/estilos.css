@@ -1,0 +1,47 @@
+    #call-to-action {
+        background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../Img/call.png);
+        background-repeat: no-repeat;
+        background-position: top center;
+        background-size: cover;
+        width: auto;
+        text-align: center;
+        height: 50vw;
+        color: #fff;
+        padding-top: 150px;
+        background-attachment: fixed;
+    }
+    
+    .img-descto {
+        filter: brightness(60%);
+    }
+    
+    .calzados {
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+    
+    .dscto {
+        position: relative;
+        display: inherit;
+        text-align: center;
+    }
+    
+    .texto {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: #fff;
+    }
+    
+    .boton {
+        position: absolute;
+        top: 70%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: rgb(230, 230, 230);
+    }
+    
+    .redes>a {
+        color: rgb(149, 240, 164);
+    }
